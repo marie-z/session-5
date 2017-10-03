@@ -3,4 +3,23 @@ body {
 }
 
 #fixed-block {
+	position: fixed;
+	top: 0px
+	left: 0px;
 }
+
+#footnotes {
+	position: absolute;
+	top: 1300px;
+}
+
+#with-offset {
+	margin-bottom: 5px;
+	}
+
+#floating-square {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 20px;
+	}
